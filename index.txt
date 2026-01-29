@@ -1,0 +1,9 @@
+hola mundo
+
+iniciando
+
+en crear
+
+repositorio
+
+usando git
