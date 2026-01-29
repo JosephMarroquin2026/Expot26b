@@ -1,6 +1,6 @@
 hola mundo
 
-iniciando
+iniciando con Analisis de sistemas 
 
 en crear
 
@@ -8,8 +8,7 @@ repositorio
 
 usando git
 
-por medio de 
+hola como estas
 
-la consola de
+tengo frio
 
-gitbash
